@@ -1,11 +1,10 @@
-import React, { useState } from "react";
+import React from "react";
 import {
   Accordion,
   AccordionItem,
   AccordionItemHeading,
   AccordionItemButton,
   AccordionItemPanel,
-  AccordionItemState,
 } from "react-accessible-accordion";
 import "react-accessible-accordion/dist/fancy-example.css";
 import { MdOutlineArrowDownward } from "react-icons/md";
